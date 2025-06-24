@@ -13,7 +13,7 @@ Tools Used: Python (Jupiter Notebook)
 
 [II. Dataset Description & Data Structure](https://github.com/yuhanguyen/EDA-and-Data-Wrangling-with-Python/edit/main/README.md#ii-dataset-description--data-structure)
 
-[II. Main Process](https://github.com/yuhanguyen/EDA-and-Data-Wrangling-with-Python/edit/main/README.md#iii-main-process)
+[III. Main Process](https://github.com/yuhanguyen/EDA-and-Data-Wrangling-with-Python/edit/main/README.md#iii-main-process)
 
 ## I. Background & Overview
 
