@@ -17,11 +17,11 @@ Tools Used: Python (Jupiter Notebook)
 
 ## I. Background & Overview
 
-Objective:
+### Objective:
 
 This project uses Python to analyze the payment dataset from an E-wallet to understand the status of a payment or transaction in the context of the E-wallet.
 
-👤 Who is this project for?
+### Who is this project for?
 
 ✔️ Data analysts & business analysts
 
