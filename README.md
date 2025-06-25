@@ -1,4 +1,4 @@
-# EDA-and-Data-Wrangling-with-Python
+# Payment analysis in Ewallet using Python
 Used Python to perform EDA & Data Wrangling tasks on the given payment dataset.
 
 Author: Nguyen Anh Huy
