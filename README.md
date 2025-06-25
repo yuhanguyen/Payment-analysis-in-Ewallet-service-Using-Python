@@ -1,4 +1,4 @@
-# Payment analysis in Ewallet Using Python
+# Payment analysis in Ewallet service Using Python
 Used Python to perform EDA & Data Wrangling tasks on the given payment dataset.
 
 Author: Nguyen Anh Huy
