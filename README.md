@@ -1,5 +1,5 @@
 # Payment analysis in Ewallet service Using Python
-Used Python to perform EDA & Data Wrangling tasks on the given payment dataset.
+Performed exploratory data analysis (EDA) and data wrangling on ~105k transaction records across 3 tables of a payment dataset using Python (Pandas, NumPy), identifying data quality issues, trends, and key insights to support downstream analysis.
 
 Author: Nguyen Anh Huy
 
