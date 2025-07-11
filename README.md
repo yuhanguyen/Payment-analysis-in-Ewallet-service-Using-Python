@@ -10,13 +10,13 @@ Tools Used: Python (Jupiter Notebook)
 
 ## 📑 Table of Contents
 
-[📘 Project Overview: E-Wallet Transaction & Payment Analysis]()
+[📘 Project Overview: E-Wallet Transaction & Payment Analysis](https://github.com/yuhanguyen1/Payment-analysis-in-Ewallet-service-Using-Python?tab=readme-ov-file#-project-overview-e-wallet-transaction--payment-analysis)
 
-[📂 Dataset Description & Access]()
+[📂 Dataset Description & Access](https://github.com/yuhanguyen1/Payment-analysis-in-Ewallet-service-Using-Python?tab=readme-ov-file#-dataset-description--access)
 
-[🧪 Main Process]()
+[🧪 Main Process](https://github.com/yuhanguyen1/Payment-analysis-in-Ewallet-service-Using-Python?tab=readme-ov-file#-main-process)
 
-[🔎 Final Conclusion & Recommendations]()
+[🔎 Final Conclusion & Recommendations](https://github.com/yuhanguyen1/Payment-analysis-in-Ewallet-service-Using-Python?tab=readme-ov-file#-recommendations)
 
 ## 📘 Project Overview: E-Wallet Transaction & Payment Analysis
 
@@ -349,8 +349,8 @@ print(transactions)
    + No abnormal products (each product is handled by one team).
   
 3. **Lowest Performance Team in Q2.2023:**
-   + Team APS with volume = 51,141,753
-   + Category PXXXXXB contributes 25232438 volume.
+   + Team APS with volume = 51141753
+   + Category PXXXXXB contributes 25232438 products.
 
 4. **Highest Contributor in Refund Transactions:**
 
