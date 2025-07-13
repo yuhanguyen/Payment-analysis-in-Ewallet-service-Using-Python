@@ -375,7 +375,7 @@ print(transactions)
 
  2. **The APS team**:
 
- In Q2.2023, APS performs the worst.  Examine and improve their performance, particularly in the PXXXXXB category, which only contributes 36527454759 products.
+ In Q2.2023, APS performs the worst.  Examine and improve their performance, particularly in the PXXXXXB category, which only contributes 25232438 products.
  
  3. **Refunds**:
 
